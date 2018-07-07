@@ -1,3 +1,4 @@
 this is a simple prctise
 edit again
-push test 
+push test
+GPL
