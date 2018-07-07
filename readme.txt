@@ -12,4 +12,5 @@ fix bug 01.
 =======
 git stash practice, finished.
 >>>>>>> dev
-dev
+dev 
+pust practice.
